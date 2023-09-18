@@ -1,5 +1,5 @@
 import re
-from datetime import datetime
+import datetime
 
 #Define a função para extrair e converter a data de texto pra um tipo trabalhável
 def extrair_converter_data(input_str):
